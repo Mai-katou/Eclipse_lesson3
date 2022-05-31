@@ -1,7 +1,7 @@
 
 public class Chapter05 {
 	public static void main(String[] args) {
-	long l=32;
+	long l=32L;
 	System.out.println(1);
 
 	double d=1234.567;
